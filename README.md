@@ -1,6 +1,8 @@
-# Java, NetBeans, SceneBuilder - Data Entry App - Part 01 - Add Student
+# Java, NetBeans, SceneBuilder - Data Entry App
+## Part 01 - Add Student
 
-Here is the Java, NetBeans, SceneBuilder source code for my video tutorial:
+Here is the Java, NetBeans, SceneBuilder source code for
+**Part 01** of my video tutorial series:
 * YouTube: https://youtu.be/P4D73ZEaja0
 * LBRY / Odysee: https://odysee.com/@MoosesValley:0/Java,-NetBeans,-SceneBuilder---Data-Entry-App---Part-01_ff:7
 
